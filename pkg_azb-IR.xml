@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension type="package" version="3.7" method="upgrade">
+	<name>South Azerbaijani Language Pack</name>
+	<packagename>azb-IR</packagename>
+	<version>3.7.3</version>
+	<creationDate>Sep 2017</creationDate>
+	<author>olsun.ir</author>
+	<authorEmail>info@olsun.ir</authorEmail>
+	<authorUrl>olsun.ir</authorUrl>
+	<copyright>Copyright (C) 2017 olsun.ir, Joomlafarsi.com and Open Source Matters, Inc. All rights reserved.</copyright>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<url></url>
+	<packager>Mohammad Shokrollahi Nasrabadi</packager>
+	<packagerurl>olsun.ir</packagerurl>
+	<description>
+		<![CDATA[<h3>جوملا! ۳.۷-نین تورکجه کامیل دیل بسته‌سی، ۳.۷.۳-جی نوسخه، olsun.ir</h3>
+		<h3>Joomla! 3.7 Full South Azerbaijani (azb-IR) Language Package version 3.7.3, olsun.ir</h3>
+		<br>]]></description>
+	<blockChildUninstall>true</blockChildUninstall>
+<files>
+	<file type="language" client="site" id="azb-IR">site_azb-IR.zip</file>
+	<file type="language" client="administrator" id="azb-IR">admin_azb-IR.zip</file>
+</files>
+<updateservers>
+  <server type="collection" priority="1" name="Accredited Joomla! Translations">http://update.joomla.org/language/translationlist_3.xml</server>
+</updateservers>
+</extension>

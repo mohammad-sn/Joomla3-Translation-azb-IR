@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metafile version="3.7" client="site" >
+	<tag>azb-IR</tag>
+	<name>South Azerbaijani</name>
+	<description>South Azerbaijani language for Joomla 3.7.3</description>
+	<version>3.7.3</version>
+	<creationDate>Sep 2017</creationDate>
+    <author>olsun.ir</author>
+    <authorEmail>info@olsun.ir</authorEmail>
+    <authorUrl>olsum.ir</authorUrl>
+    <copyright>Copyright (C) 2005 - 2017 olsun.ir and Open Source Matters. All rights reserved.</copyright>
+    <license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+    <description><![CDATA[South Azerbaijani site language pack for Joomla 3.7.3]]></description>
+	<metadata>
+		<name>South Azerbaijani (IR)</name>
+		<nativeName>تورکجه (ایران)</nativeName>
+		<tag>azb-IR</tag>
+		<rtl>1</rtl>
+        <locale>azb_IR.utf8, azb_IR.UTF-8, azb_IR, Azerbaijani_IR, South Azerbaijani, azb_IR, azb_az, azb, iran, ir, azeri_ir</locale>
+        <firstDay>6</firstDay>
+		<weekEnd>0,6</weekEnd>
+		<calendar>jalali</calendar>
+	</metadata>
+	<params />
+</metafile>
